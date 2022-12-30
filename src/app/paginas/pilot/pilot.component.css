@@ -1,0 +1,61 @@
+* {
+  font-family: 'Barlow Condensed';
+}
+
+img {
+  width: 75.6%;
+}
+
+#img-content {
+  display: flex;
+  justify-content: center;
+}
+
+#title p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 34px;
+  letter-spacing: 4.725px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-top: 50px;
+}
+
+#title p span {
+  margin-right: 20px;
+  font-weight: 700;
+  mix-blend-mode: normal;
+  opacity: 0.25;
+}
+
+#main {
+  margin-top: 70px;
+  font-family: 'Bellefair';
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+#main span {
+  font-size: 32px;
+  line-height: 37px;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+#main h3 {
+
+  font-size: 56px;
+  line-height: 64px;
+}
+
+#main p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #D0D6F9;
+}

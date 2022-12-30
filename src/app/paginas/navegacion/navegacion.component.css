@@ -1,0 +1,50 @@
+* {
+  font-family: "Barlow Condensed";
+}
+
+#navegacion {
+  margin-top: 35px;
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(40.7742px);
+  width: 750px;
+  height: 96px;
+  display: flex;
+  align-items: center;
+}
+
+.divicion {
+  z-index: 2;
+  position: absolute;
+  left: 8%;
+  margin-top: 40px;
+  width: 44%;
+  height: 2px;
+  background: rgba(255, 255, 255, 0.297);
+  backdrop-filter: blur(1rem);
+}
+
+#navegacion ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#navegacion ul li a {
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 19px;
+  letter-spacing: 2.7px;
+  color: #fff;
+}
+
+#navegacion ul li a span {
+  font-weight: 700;
+}
+
+#logo {
+  width: 70px;
+  margin-left: 30px;
+  margin-top: 30px;
+}

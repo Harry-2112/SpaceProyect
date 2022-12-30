@@ -1,0 +1,19 @@
+nav {
+  position: absolute;
+  top: 580px;
+  left: 100px;
+}
+
+a {
+  width: 25px;
+  height: 25px;
+  margin: 20px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.17;
+}
+
+a:hover {
+  opacity: 1;
+}
